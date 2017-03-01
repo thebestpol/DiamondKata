@@ -13,3 +13,7 @@ C   C
  B B
   A
 ```
+
+## Solution:
+
+[DiamongGeneratorShould](https://github.com/thebestpol/DiamondKata/blob/master/app/src/test/java/es/polgomez/diamondkata/DiamondGeneratorShould.java)
